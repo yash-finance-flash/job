@@ -1,0 +1,57 @@
+{
+  "generated_at_utc": "2026-04-30T07:33:27.175491+00:00",
+  "time_window": "last_24_hours",
+  "max_jobs_per_search": 50,
+  "searches": [
+    {
+      "role": "Data Engineer",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Data+Engineer&location=Remote&f_TPR=r86400&sortBy=DD&position=1&pageNum=0&count=50"
+    },
+    {
+      "role": "Data Engineer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Data+Engineer&location=United+States&f_TPR=r86400&sortBy=DD&position=1&pageNum=0&count=50"
+    },
+    {
+      "role": "Full Stack Developer",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Full+Stack+Developer&location=Remote&f_TPR=r86400&sortBy=DD&position=1&pageNum=0&count=50"
+    },
+    {
+      "role": "Full Stack Developer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Full+Stack+Developer&location=United+States&f_TPR=r86400&sortBy=DD&position=1&pageNum=0&count=50"
+    },
+    {
+      "role": "ML Engineer",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=ML+Engineer&location=Remote&f_TPR=r86400&sortBy=DD&position=1&pageNum=0&count=50"
+    },
+    {
+      "role": "ML Engineer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=ML+Engineer&location=United+States&f_TPR=r86400&sortBy=DD&position=1&pageNum=0&count=50"
+    },
+    {
+      "role": "AI Engineer",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI+Engineer&location=Remote&f_TPR=r86400&sortBy=DD&position=1&pageNum=0&count=50"
+    },
+    {
+      "role": "AI Engineer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI+Engineer&location=United+States&f_TPR=r86400&sortBy=DD&position=1&pageNum=0&count=50"
+    },
+    {
+      "role": "Backend Software Engineer",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Backend+Software+Engineer&location=Remote&f_TPR=r86400&sortBy=DD&position=1&pageNum=0&count=50"
+    },
+    {
+      "role": "Backend Software Engineer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Backend+Software+Engineer&location=United+States&f_TPR=r86400&sortBy=DD&position=1&pageNum=0&count=50"
+    }
+  ]
+}
